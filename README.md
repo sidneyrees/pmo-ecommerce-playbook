@@ -1,11 +1,11 @@
-# PMO eCommerce Playbook (Estructura)
+# PMO eCommerce Playbook (Structure)
 
-La metodología que uso para llevar proyectos de eCommerce de la idea al lanzamiento con control total.
+The methodology I use to take eCommerce projects from idea to launch with full control and visibility.
 
-## 📁 Estructura del Playbook (Próximamente)
-1.  **Project Charter Template** – Definir alcance, presupuesto y partes interesadas.
-2.  **Risk Matrix for eCommerce** – Identificar riesgos clave (migraciones, picos de tráfico, pasarelas de pago).
-3.  **Weekly Status Report** – El formato que uso con mis clientes.
-4.  **Launch Checklist** – Mi checklist personal de 100+ puntos para un lanzamiento sin errores.
+## 📁 Playbook Structure (Content coming soon)
+1.  **Project Charter Template** – Define scope, budget, and stakeholders.
+2.  **Risk Matrix for eCommerce** – Identify key risks (migrations, traffic spikes, payment gateways).
+3.  **Weekly Status Report** – The exact format I use with my clients.
+4.  **Launch Checklist** – My personal 100+ point checklist for a smooth, error-free launch.
 
-¿Necesitas este playbook para tu proyecto? Podemos construirlo juntos. [Contáctame](https://www.sidneyrees.com)
+**Need this playbook for your project? Let's build it together.** [Contact me](https://www.sidneyrees.com)
