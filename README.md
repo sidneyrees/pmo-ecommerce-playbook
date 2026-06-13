@@ -1,4 +1,4 @@
-# 📋 The Fractional PMO Playbook for eCommerce Launches
+# 📋 The Fractional CTO / PMO Playbook for eCommerce Launches
 
 ![Status](https://img.shields.io/badge/Status-Framework%20Live-brightgreen) ![Version](https://img.shields.io/badge/Version-1.0-blue) ![Projects](https://img.shields.io/badge/Tested%20On-70%2B%20Projects-orange)
 
@@ -25,18 +25,26 @@ Mid-size fashion brand migrating from WooCommerce to Shopify:
 - Week 5: Launch Checklist → Zero downtime migration
 - Week 6: Post-Mortem → 3 process improvements
 
-## Want More?
-
-- Tech Radar -> https://github.com/sidneyrees/ecommerce-tech-radar
-- Headless Architectures -> https://github.com/sidneyrees/headless-ecommerce-architectures
-- Project Recovery Kit -> https://github.com/sidneyrees/project-recovery-kit
-
 ## Need This Playbook?
 
 I make these templates available in full to clients. Schedule a call: https://www.sidneyrees.com/contact
 
----
+## Want More?
 
-Sidney Rees
-Fractional CTO+PMO for eCommerce & Digital Businesses
-🌐 sidneyrees.com | 📧 sidney@sidneyrees.com
+- Success Stories & Real Cases -> https://github.com/sidneyrees/real-cases-and-success-stories
+- CTO / PMO eCommerce Playbook -> https://github.com/sidneyrees/pmo-ecommerce-playbook
+- Tech Radar -> https://github.com/sidneyrees/ecommerce-tech-radar
+- Automation & AI Agents for eCommerce -> https://github.com/sidneyrees/automation-agents-for-ecommerce
+- Project Recovery Kit -> https://github.com/sidneyrees/project-recovery-kit
+
+--- 
+
+## I can help. Let's talk.
+
+Sidney Rees - Fractional CTO+PMO for eCommerce & Digital Businesses
+
+🌐 https://www.sidneyrees.com
+
+💼 [LinkedIn](https://www.linkedin.com/in/sidneyrees)
+
+📫 Available for consulting opportunities
