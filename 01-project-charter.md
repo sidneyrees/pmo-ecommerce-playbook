@@ -90,4 +90,4 @@ Full risk matrix lives in [`02-risk-matrix.md`](./02-risk-matrix.md). List only 
 | Fractional CTO/PMO | | |
 
 ---
-[⬅ Back to playbook index](../README.md)
+[⬅ Back to playbook index](./README.md)

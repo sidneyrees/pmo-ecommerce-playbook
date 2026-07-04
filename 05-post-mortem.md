@@ -59,4 +59,4 @@ Date: [date] · Facilitator: [name] · Attendees: [names]
 - Every action item should update one of the other four templates in this playbook. A post-mortem that doesn't change the charter, risk matrix, checklist, or reporting cadence for next time was just a venting session.
 
 ---
-[⬅ Back to playbook index](../README.md)
+[⬅ Back to playbook index](./README.md)

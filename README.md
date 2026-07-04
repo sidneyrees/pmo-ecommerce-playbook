@@ -12,11 +12,11 @@ This is the execution methodology I use as a Fractional CTO/PMO to take eCommerc
 
 | Section | Status |
 |---|---|
-| 1. [Project Charter Template](./templates/01-project-charter.md) | ✅ Available |
-| 2. [Risk Matrix for eCommerce](./templates/02-risk-matrix.md) | ✅ Available |
-| 3. [Weekly Status Report](./templates/03-weekly-status-report.md) | ✅ Available |
-| 4. [Launch Checklist (100+ points)](./templates/04-launch-checklist.md) | ✅ Available |
-| 5. [Post-Mortem Template](./templates/05-post-mortem.md) | ✅ Available |
+| 1. [Project Charter Template](./01-project-charter.md) | ✅ Available |
+| 2. [Risk Matrix for eCommerce](./02-risk-matrix.md) | ✅ Available |
+| 3. [Weekly Status Report](./03-weekly-status-report.md) | ✅ Available |
+| 4. [Launch Checklist (100+ points)](./04-launch-checklist.md) | ✅ Available |
+| 5. [Post-Mortem Template](./05-post-mortem.md) | ✅ Available |
 
 ## How I Use This (Real Example)
 
@@ -46,5 +46,5 @@ The templates above are the public framework. I customize and run these live for
 Sidney Rees — Fractional CTO+PMO for eCommerce & Digital Businesses
 
 🌐 https://www.sidneyrees.com
-💼 [LinkedIn](https://www.linkedin.com/in/sidneyrees)
+
 📫 Available for consulting opportunities

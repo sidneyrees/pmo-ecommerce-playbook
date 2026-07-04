@@ -47,4 +47,4 @@ One sentence explaining the color. Example: "🟡 At Risk — data migration dry
 4. **Keep it to one page.** If it's longer, move detail into an appendix link, not the report body.
 
 ---
-[⬅ Back to playbook index](../README.md)
+[⬅ Back to playbook index](./README.md)

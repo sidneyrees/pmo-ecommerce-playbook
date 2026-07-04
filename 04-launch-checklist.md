@@ -143,4 +143,4 @@ Run this in full for any platform migration, replatform, or major relaunch. Orga
 | | | |
 
 ---
-[⬅ Back to playbook index](../README.md)
+[⬅ Back to playbook index](./README.md)

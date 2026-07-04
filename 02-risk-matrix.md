@@ -60,4 +60,4 @@ Don't just fill this in once. Review scores weekly — likelihood typically rise
 | | | | | ↑/↓/→ | |
 
 ---
-[⬅ Back to playbook index](../README.md)
+[⬅ Back to playbook index](./README.md)
