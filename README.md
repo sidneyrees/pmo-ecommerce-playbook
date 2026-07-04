@@ -1,20 +1,22 @@
 # 📋 The Fractional CTO / PMO Playbook for eCommerce Launches
 
-![Status](https://img.shields.io/badge/Status-Framework%20Live-brightgreen) ![Version](https://img.shields.io/badge/Version-1.0-blue) ![Projects](https://img.shields.io/badge/Tested%20On-70%2B%20Projects-orange)
+![Status](https://img.shields.io/badge/Status-Framework%20Live-brightgreen)
+![Version](https://img.shields.io/badge/Version-1.0-blue)
+![Projects](https://img.shields.io/badge/Tested%20On-70%2B%20Projects-orange)
 
 ## What Is This?
 
-This is the execution methodology I use as a Fractional PMO to take eCommerce projects from fuzzy idea to successful launch.
+This is the execution methodology I use as a Fractional CTO/PMO to take eCommerce projects from fuzzy idea to successful launch — the same structure behind the case studies in [`real-cases-and-success-stories`](https://github.com/sidneyrees/real-cases-and-success-stories).
 
 ## Playbook Structure
 
 | Section | Status |
-|---------|--------|
-| 1. Project Charter Template | Coming soon |
-| 2. Risk Matrix for eCommerce | Coming soon |
-| 3. Weekly Status Report | Coming soon |
-| 4. Launch Checklist (100+ points) | Coming soon |
-| 5. Post-Mortem Template | Coming soon |
+|---|---|
+| 1. [Project Charter Template](./templates/01-project-charter.md) | ✅ Available |
+| 2. [Risk Matrix for eCommerce](./templates/02-risk-matrix.md) | ✅ Available |
+| 3. [Weekly Status Report](./templates/03-weekly-status-report.md) | ✅ Available |
+| 4. [Launch Checklist (100+ points)](./templates/04-launch-checklist.md) | ✅ Available |
+| 5. [Post-Mortem Template](./templates/05-post-mortem.md) | ✅ Available |
 
 ## How I Use This (Real Example)
 
@@ -25,26 +27,24 @@ Mid-size fashion brand migrating from WooCommerce to Shopify:
 - Week 5: Launch Checklist → Zero downtime migration
 - Week 6: Post-Mortem → 3 process improvements
 
-## Need This Playbook?
+## Want the Full Client Version?
 
-I make these templates available in full to clients. Schedule a call: https://www.sidneyrees.com/contact
+The templates above are the public framework. I customize and run these live for clients — including the emergency-migration variant used in the [40K-product recovery case study](https://github.com/sidneyrees/real-cases-and-success-stories). Schedule a call: https://www.sidneyrees.com/contact
 
 ## Want More?
 
-- Success Stories & Real Cases -> https://github.com/sidneyrees/real-cases-and-success-stories
-- CTO / PMO eCommerce Playbook -> https://github.com/sidneyrees/pmo-ecommerce-playbook
-- Tech Radar -> https://github.com/sidneyrees/ecommerce-tech-radar
-- Automation & AI Agents for eCommerce -> https://github.com/sidneyrees/automation-agents-for-ecommerce
-- Project Recovery Kit -> https://github.com/sidneyrees/project-recovery-kit
+- Success Stories & Real Cases → https://github.com/sidneyrees/real-cases-and-success-stories
+- CTO / PMO eCommerce Playbook → https://github.com/sidneyrees/pmo-ecommerce-playbook
+- Tech Radar → https://github.com/sidneyrees/ecommerce-tech-radar
+- Automation & AI Agents for eCommerce → https://github.com/sidneyrees/automation-agents-for-ecommerce
+- Project Recovery Kit → https://github.com/sidneyrees/project-recovery-kit
 
---- 
+---
 
 ## I can help. Let's talk.
 
-Sidney Rees - Fractional CTO+PMO for eCommerce & Digital Businesses
+Sidney Rees — Fractional CTO+PMO for eCommerce & Digital Businesses
 
 🌐 https://www.sidneyrees.com
-
 💼 [LinkedIn](https://www.linkedin.com/in/sidneyrees)
-
 📫 Available for consulting opportunities
