@@ -31,13 +31,22 @@ Mid-size fashion brand migrating from WooCommerce to Shopify:
 
 The templates above are the public framework. I customize and run these live for clients — including the emergency-migration variant used in the [40K-product recovery case study](https://github.com/sidneyrees/real-cases-and-success-stories). Schedule a call: https://www.sidneyrees.com/contact
 
-## Want More?
+## Next Step
 
-- Success Stories & Real Cases → https://github.com/sidneyrees/real-cases-and-success-stories
-- CTO / PMO eCommerce Playbook → https://github.com/sidneyrees/pmo-ecommerce-playbook
+**→ [See this framework applied in real client work](https://github.com/sidneyrees/real-cases-and-success-stories)**
+
+<details>
+<summary>More resources</summary>
+
 - Tech Radar → https://github.com/sidneyrees/ecommerce-tech-radar
 - Automation & AI Agents for eCommerce → https://github.com/sidneyrees/automation-agents-for-ecommerce
 - Project Recovery Kit → https://github.com/sidneyrees/project-recovery-kit
+
+</details>
+
+---
+
+**Part of the Sidney Rees ecosystem** — 🟡 [Sidney Rees](https://sidneyrees.com) (strategy) · 🔵 [Sigma Reef](https://sigmareef.com) (e-commerce AI) · 🟢 [Cadence Ridge](https://cadenceridge.com) (SMB automation)
 
 ---
 
