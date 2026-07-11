@@ -1,8 +1,10 @@
+![Sidney Rees — Fractional CTO+PMO for eCommerce](https://raw.githubusercontent.com/sidneyrees/sidneyrees/main/assets/banner.png)
+
 # 📋 The Fractional CTO / PMO Playbook for eCommerce Launches
 
-![Status](https://img.shields.io/badge/Status-Framework%20Live-brightgreen)
-![Version](https://img.shields.io/badge/Version-1.0-blue)
-![Projects](https://img.shields.io/badge/Tested%20On-70%2B%20Projects-orange)
+![Status](https://img.shields.io/badge/Status-Framework%20Live-D9A441)
+![Version](https://img.shields.io/badge/Version-1.0-D9A441)
+![Projects](https://img.shields.io/badge/Tested%20On-70%2B%20Projects-D9A441)
 
 ## What Is This?
 
@@ -46,7 +48,18 @@ The templates above are the public framework. I customize and run these live for
 
 ---
 
-**Part of the Sidney Rees ecosystem** — 🟡 [Sidney Rees](https://sidneyrees.com) (strategy) · 🔵 [Sigma Reef](https://sigmareef.com) (e-commerce AI) · 🟢 [Cadence Ridge](https://cadenceridge.com) (SMB automation)
+```mermaid
+flowchart LR
+    A["🔵 Sigma Reef<br/>E-commerce AI & Automation"]
+    B["🟡 Sidney Rees<br/>Authority & Strategy"]
+    C["🟢 Cadence Ridge<br/>SMB Automation & AI Agents"]
+    A --- B --- C
+    style A fill:#2452C4,stroke:#17337a,color:#ffffff
+    style B fill:#D9A441,stroke:#8a6a1f,color:#111111
+    style C fill:#14A897,stroke:#0c6359,color:#111111
+```
+
+🔵 [Sigma Reef](https://sigmareef.com) · 🟡 [Sidney Rees](https://sidneyrees.com) · 🟢 [Cadence Ridge](https://cadenceridge.com)
 
 ---
 
